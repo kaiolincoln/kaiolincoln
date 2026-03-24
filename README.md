@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre Mim
 
-Desenvolvedor full-stack recém-formado em **Engenharia de Computação**, com sólida experiência em desenvolvimento web. Apaixonado por criar interfaces responsivas e eficientes, sempre buscando aprender novas tecnologias e enfrentar desafios complexos.
+Desenvolvedor full-stack Formado em **Engenharia de Computação**, com sólida experiência em desenvolvimento web. Apaixonado por criar interfaces responsivas e eficientes, sempre buscando aprender novas tecnologias e enfrentar desafios complexos.
 
 - 🎓 Formado em Engenharia de Computação pela Fainor-BA (2025)
 - 💼 Ex-Assistente de Tecnologia na IA Sonia
