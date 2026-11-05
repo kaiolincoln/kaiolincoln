@@ -68,7 +68,7 @@ Plataforma SaaS completa desenvolvida com arquitetura multi-tenant, incluindo:
 
 ## 💡 Frase Motivacional
 
-> "O ignorante afirma, o sábio duvida, o sensato reflete." - Steve Jobs
+> "O ignorante afirma, o sábio duvida, o sensato reflete."
 
 ---
 
