@@ -66,17 +66,9 @@ Plataforma SaaS completa desenvolvida com arquitetura multi-tenant, incluindo:
   
 </div>
 
-## 🎯 Objetivos 2025
-
-- [ ] Contribuir para projetos open source
-- [ ] Desenvolver 5+ projetos completos
-- [ ] Aprofundar conhecimentos em React e Node.js
-- [ ] Conquistar primeira oportunidade como desenvolvedor
-- [ ] Expandir portfólio de projetos
-
 ## 💡 Frase Motivacional
 
-> "A única maneira de fazer um excelente trabalho é amar o que você faz." - Steve Jobs
+> "O ignorante afirma, o sábio duvida, o sensato reflete." - Steve Jobs
 
 ---
 
